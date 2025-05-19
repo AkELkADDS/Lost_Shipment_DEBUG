@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e078e210-b9ba-48e5-afe3-c5eb91ba8545">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6a549452-3169-4195-8bcd-e0e0d88143fe" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_AkELKA_Chest_CF_A_DEBUG_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="996cfbdd-07e1-4e40-bfd5-e6a4f70f3c34" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="100" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="9abffb4d-ae7d-44c7-a015-7ef8b0c1a25e" />
+        <field name="BludgeoningResistance" type="EnumerationListTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="SlashingResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="PiercingResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="50" />
+        <field name="AcidResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="ColdResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="FireResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="ForceResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="LightningResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="ThunderResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0e7e5536-e8e5-4d49-9841-ce7943ba7fb4" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_AkELkA_Chest_CF_Armor_A_DEBUG_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="996cfbdd-07e1-4e40-bfd5-e6a4f70f3c34" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="50" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="58407486-b71a-4f68-9abf-8235fcaf4ffd" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="20" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5147c3eb-eb4e-41c9-b00d-abd0a9b8bfb0" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_AkELkA_Chest_CF_Boots_A_DEBUG_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="996cfbdd-07e1-4e40-bfd5-e6a4f70f3c34" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="50" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="ee21fba2-8b29-4eb4-96a6-eb21805ff8d5" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="20" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b38c8a06-8f10-461f-b3e9-578e8abfa72d" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_AkELKA_Chest_CF_CampCloth_A_DEBUG_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ac4dbac1-7af0-45da-b0fa-198fe2f76c72" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="25" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="cffc4fbe-d93d-441b-8883-aad086cdab37" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="10" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cc8d98d0-6ace-4e2b-aee2-9c704fbc5344" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_AkELKA_Chest_CF_Glovebox_A_DEBUG_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21d870fb-3a59-47da-bef2-9bf912e6ea8c" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="50" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="fdf1f2ea-c7e3-486b-afa5-0ca7e2fee649" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="10" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a7d407b2-34b4-402d-9ee9-b713e122101a" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_AkELKA_Chest_CF_Underwear_A_DEBUG_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ac4dbac1-7af0-45da-b0fa-198fe2f76c72" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="25" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="8e218449-2442-49ca-8c74-46e24001db18" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="10" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

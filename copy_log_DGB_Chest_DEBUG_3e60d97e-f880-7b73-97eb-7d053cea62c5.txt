@@ -1,0 +1,289 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 
+   Mon 05/19/2025  6:51:23.39 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\Stats\Stats\Object.stats 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\Stats\TreasureTable\TreasureTable.stats 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5: 3 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\RootTemplates\58407486-b71a-4f68-9abf-8235fcaf4ffd.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\RootTemplates\8e218449-2442-49ca-8c74-46e24001db18.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\RootTemplates\9abffb4d-ae7d-44c7-a015-7ef8b0c1a25e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\RootTemplates\cffc4fbe-d93d-441b-8883-aad086cdab37.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\RootTemplates\ee21fba2-8b29-4eb4-96a6-eb21805ff8d5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\RootTemplates\fdf1f2ea-c7e3-486b-afa5-0ca7e2fee649.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\Stats\Generated\TreasureTable.txt 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\Stats\Generated\Data\Object.txt 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5: 8 
+ 
+[LOG] Total files found across all folders: 15 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\Projects\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 to Projects\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 
+[DEBUG] Using destination: Projects\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:51:27 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\Projects\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     693	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\meta.lsx100%  
+	    New File  		  134879	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\thumbnail.png100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :   132.3 k   132.3 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           135572000 Bytes/sec.
+   Speed :            7757.492 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:51:27 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\Editor\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 to "Editor\Mods"\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 
+[DEBUG] Using destination: Editor\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:51:28 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\Editor\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    5798	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\Stats\Stats\Object.stats100%  
+	    New File  		   20418	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\Stats\TreasureTable\TreasureTable.stats100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         7         7         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    25.6 k    25.6 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            26216000 Bytes/sec.
+   Speed :            1500.091 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:51:28 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 to Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 
+[DEBUG] Using destination: Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:51:30 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   12437	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\meta.lsx100%  
+	    New File  		  134879	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\mod_publish_logo.png100%  
+	    New File  		    2285	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         3         1         0         0         0
+   Files :         3         3         0         0         0         0
+   Bytes :   146.0 k   146.0 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            18700125 Bytes/sec.
+   Speed :            1070.029 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:51:30 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 3 
+[DEBUG] Successfully copied files: 3 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5: 
+      Total files: 3 
+      Copied successfully: 3 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 to Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 
+[DEBUG] Using destination: Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:51:32 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    3268	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\RootTemplates\58407486-b71a-4f68-9abf-8235fcaf4ffd.lsf100%  
+	    New File  		    3250	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\RootTemplates\8e218449-2442-49ca-8c74-46e24001db18.lsf100%  
+	    New File  		    3315	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\RootTemplates\9abffb4d-ae7d-44c7-a015-7ef8b0c1a25e.lsf100%  
+	    New File  		    3250	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\RootTemplates\cffc4fbe-d93d-441b-8883-aad086cdab37.lsf100%  
+	    New File  		    3236	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\RootTemplates\ee21fba2-8b29-4eb4-96a6-eb21805ff8d5.lsf100%  
+	    New File  		    3345	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\RootTemplates\fdf1f2ea-c7e3-486b-afa5-0ca7e2fee649.lsf100%  
+	    New File  		    2253	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\Stats\Generated\TreasureTable.txt100%  
+	    New File  		    1474	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5\Stats\Generated\Data\Object.txt100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         7         7         1         0         0         0
+   Files :         8         8         0         0         0         0
+   Bytes :    22.8 k    22.8 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             5847750 Bytes/sec.
+   Speed :             334.610 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:51:32 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 8 
+[DEBUG] Successfully copied files: 8 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5: 
+      Total files: 8 
+      Copied successfully: 8 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 3 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Chest_DEBUG_3e60d97e-f880-7b73-97eb-7d053cea62c5 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 8 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 15 
+[SUMMARY] Total files successfully copied: 30 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
